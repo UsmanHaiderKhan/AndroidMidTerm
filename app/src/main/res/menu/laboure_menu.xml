@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="Select Employee's"
+        android:icon="@drawable/ic_supervisor_account_black_24dp"
+        android:id="@+id/icon"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/usman"
+        android:title="Usman Khan" />
+    <item
+        android:id="@+id/salman"
+        android:title="Salman Khan" />
+    <item
+        android:id="@+id/arslan"
+        android:title="Arslan Ameer" />
+    <item
+        android:id="@+id/saim"
+        android:title="Saim Khan" />
+
+</menu>
