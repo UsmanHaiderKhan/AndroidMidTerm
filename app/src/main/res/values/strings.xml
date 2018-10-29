@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Android Mid Term</string>
+
+    <string-array name="spinner_items">
+        <item>Usman Haider Khan</item>
+        <item>Arslan Ameer</item>
+        <item>Saim Khan</item>
+        <item>Salman Khan</item>
+        <item>Arbaz Khan</item>
+    </string-array>
 </resources>
